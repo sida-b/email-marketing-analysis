@@ -6,7 +6,6 @@ I analyzed a fictitious email marketing dataset from Enterprise DNA. The dataset
 First, I checked the dataset for missing data and outliers. There were no missing values nor outliers, so I was able to start my analysis. I loaded the dataset into Jupyter Notebook and created 2 dataframes: one for sales and the other for emails. 
 
 **Overview**
-
 - I calculated the sum of the Sales Value column in the sales dataframe to get the total sales of $5,114,683.
 - I counted the number of unique customers, which were 263 customers.
 - I counted the rows in the sales dataframe, which were 10,000 sales order.
