@@ -11,3 +11,32 @@ First, I checked the dataset for missing data and outliers. There were no missin
 - I counted the rows in the sales dataframe, which were 10,000 sales order.
 - I counted the number of unique products, which were 10 products.
 
+
+<div align="center">
+  <img src="charts/EmailConversion.jpg" height="300"/>
+</div>
+<br/>
+The number of emails opened is lower than the number of emails received, and the number of links clicked is even lower. There is an email open rate of 24.5% and CTR of 12.4%.
+<br/>
+<br/>
+
+<div align="center">
+  <img src="charts/MonthlySales.jpg" height="300"/>
+  <img src="charts/MonthlySalesbyProduct.jpg" height="300"/>
+</div>
+<br/>
+Sales are highest in July and December and lowest in April. Each product has roughly similar sales each month.
+<br/>
+<br/>
+<div align="center">
+  <img src="charts/SalesvsEmails.jpg" height="300"/>
+</div>
+<br/>
+Based on the line chart showing monthly sales and emails opened, the number of emails opened during March is lower than most of the other months, but the sales is one of the highest among all months. 
+is one of thThe number of emails received, opened, and links clicked is peaks in March and October and is lowest in September.
+
+<div align="center">
+  <img src="charts/Heatmap.jpg" height="300"/>
+</div>
+<br>
+The heatmap shows a very low correlation coefficient between emails received, emails opened, links clicked, and sales value. There is no relationship between these 4 variables. In conclusion, more emails opened or links clicked in the emails do not imply higher sales. 
