@@ -32,11 +32,11 @@ Sales are highest in July and December and lowest in April. Each product has rou
   <img src="charts/SalesvsEmails.jpg" height="300"/>
 </div>
 <br/>
-Based on the line chart showing monthly sales and emails opened, the number of emails opened during March is lower than most of the other months, but the sales is one of the highest among all months. 
-is one of thThe number of emails received, opened, and links clicked is peaks in March and October and is lowest in September.
-
+Based on the line chart showing monthly sales and emails opened, the number of emails opened in November is very high compared to other months, but the sales is relatively low compared to all months. Similarly, for the chart showing monthly sales and links clicked on emails, the number of links clicked is very high in April, but the sales is the lowest among all months. Therefore, there seems to be no relationship between sales, emails opened, and links clicked. More emails opened and links clicked do not cause higher sales.
+<br>
+<br>
 <div align="center">
-  <img src="charts/Heatmap.jpg" height="300"/>
+  <img src="charts/HeatmapSalesAndEmails.jpg" height="300"/>
 </div>
 <br>
 The heatmap shows a very low correlation coefficient between emails received, emails opened, links clicked, and sales value. There is no relationship between these 4 variables. In conclusion, more emails opened or links clicked in the emails do not imply higher sales. 
